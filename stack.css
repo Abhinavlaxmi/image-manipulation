@@ -1,0 +1,17 @@
+.main h1{
+    font-weight: 500;
+    justify-content: center;
+    margin-left: 680px;
+    font-size: xx-large;
+
+  }
+
+  .main .body{
+    flex-grow: 1;
+    display: flex;
+    overflow: hidden;
+    margin-left: 20px;
+    border-radius: 5px;
+    align-items: center;
+    justify-content: center;
+  }
